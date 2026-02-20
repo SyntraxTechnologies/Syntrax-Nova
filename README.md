@@ -5,7 +5,7 @@ Syntrax Nova is an nice simple office suite build for everyday use, The best ope
 **Minimum Requirements**
 - Windows 7 (XP and Vista support is coming)
 - Any Linux Distro (Or MacOS)
-- Python 3.14 if you are using .py file
+- Python 3.14 if you are using the .py file
 
 **Planned**
 - XML file support

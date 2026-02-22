@@ -8,8 +8,7 @@ Syntrax Nova is an nice, lightweight simple office suite build for everyday use,
 - Python 3.14 if you are using the .py file
 
 **Planned**
-- XML file support
-- An Note/Book Program
+- XML file support for ALL programs
 
 **Please send me bug reports, Feature or program requests to one of my socials!**
 
